@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/FastAiming">
+        <file alias="Target">Resources/aaa.png</file>
+    </qresource>
+</RCC>
